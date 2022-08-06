@@ -1,0 +1,9 @@
+C:\Users\caio\Documents\transportTest\.mono\temp\bin\ExportRelease\transportTest.dll
+C:\Users\caio\Documents\transportTest\.mono\temp\bin\ExportRelease\transportTest.pdb
+C:\Users\caio\Documents\transportTest\.mono\temp\obj\ExportRelease\transportTest.csproj.AssemblyReference.cache
+C:\Users\caio\Documents\transportTest\.mono\temp\obj\ExportRelease\transportTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio\Documents\transportTest\.mono\temp\obj\ExportRelease\transportTest.AssemblyInfoInputs.cache
+C:\Users\caio\Documents\transportTest\.mono\temp\obj\ExportRelease\transportTest.AssemblyInfo.cs
+C:\Users\caio\Documents\transportTest\.mono\temp\obj\ExportRelease\transportTest.csproj.CoreCompileInputs.cache
+C:\Users\caio\Documents\transportTest\.mono\temp\obj\ExportRelease\transportTest.dll
+C:\Users\caio\Documents\transportTest\.mono\temp\obj\ExportRelease\transportTest.pdb

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Mouse Click - Sound Effect (HD).mp3-d10f74793eeb6e9c193156e5c4423a06.mp3str"
+
+[deps]
+
+source_file="res://Mouse Click - Sound Effect (HD).mp3"
+dest_files=[ "res://.import/Mouse Click - Sound Effect (HD).mp3-d10f74793eeb6e9c193156e5c4423a06.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
